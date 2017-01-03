@@ -48,6 +48,7 @@ La colonne de gauche (repère 1) a une largeur de 200 pixels et le bandeau (rep�
 
 2) une hauteur de 150 pixels. Le bandeau contient le titre du site, la colonne de
 gauche un menu de la zone principale (repère 3) du texte et des images au choix.
+
 Le premier lien du menu doit afficher une page ayant la même structure et le
 même contenu dans les zones 1 et 2, mais un contenu éditorial différent dans la
 zone 3.
