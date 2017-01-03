@@ -1,0 +1,12 @@
+body{
+	width: 50%;
+	text-align: center;
+}
+
+#premiere{
+	float: left;
+}
+
+#deuxieme{
+	float: right;
+}

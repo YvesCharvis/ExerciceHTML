@@ -1,0 +1,17 @@
+#container{
+	display : flex;
+	width: 20%;
+	background-color: #A5A5A5;
+}
+
+nav{
+	display: flex;
+	flex-wrap: wrap;
+	justify-content: center;
+}
+
+a{
+	width: 100%;
+	text-align: center;
+	padding: 10px;
+}

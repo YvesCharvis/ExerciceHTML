@@ -1,0 +1,29 @@
+img{
+	position: absolute;
+	width: 500px;
+	height: 500px;
+}
+
+#premiere{
+	margin: 50px;
+}
+
+#deuxieme{
+	margin: 100px;
+}
+
+#troisieme{
+	margin: 150px;
+}
+
+#premiere:hover{
+	z-index: 999;
+}
+
+#deuxieme:hover{
+	z-index: 999;
+}
+
+#troisieme:hover{
+	z-index: 999;
+}
